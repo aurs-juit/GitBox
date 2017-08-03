@@ -8,4 +8,3 @@ with open('footer.md') as f:
 
 with open('README.md', 'w') as f:
     f.write(readme)
-Contact GitHub API Training Shop Blog About
